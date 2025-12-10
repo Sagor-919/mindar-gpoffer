@@ -1,0 +1,1 @@
+mygp://offers/open?offerId=9876
