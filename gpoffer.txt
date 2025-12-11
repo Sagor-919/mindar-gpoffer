@@ -1,1 +1,1 @@
-mygp://offers/open?offerId=9876
+intent://mygp#Intent;scheme=mygp;package=com.portonics.mygp;end
