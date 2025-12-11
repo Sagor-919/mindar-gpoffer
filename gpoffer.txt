@@ -1,1 +1,1 @@
-intent://mygp#Intent;scheme=mygp;package=com.portonics.mygp;end
+mygp://open
